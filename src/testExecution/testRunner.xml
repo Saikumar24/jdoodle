@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="J Doodle" verbose="1" thread-count="1" parallel="tests" configfailurepolicy="continue">
+    <test name="eFleetSuite Certify Logs Test">
+        <classes>
+            <class name="testrunners.Functionality">
+            </class>
+        </classes>
+    </test>
+</suite>
